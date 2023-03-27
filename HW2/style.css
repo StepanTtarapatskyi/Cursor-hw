@@ -1,0 +1,15 @@
+.main {
+    border-style: solid;
+    border-color: rgb(206, 206, 206);
+    border-width: 1%;
+    padding: 5%;
+    width: 50%;
+    margin: auto;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    font-weight: lighter;
+}
